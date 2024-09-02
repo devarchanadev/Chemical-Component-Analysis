@@ -3,10 +3,10 @@
 [![Jump to Project Overview](https://img.shields.io/badge/Project%20Overview-📋-blue?style=for-the-badge&logo=read-the-docs)](#project-overview) 
 [![Jump to Data Processing](https://img.shields.io/badge/Data%20Processing-📊-blue?style=for-the-badge&logo=analytics)](#data-processing) 
 [![Jump to Exploratory Data Analysis (EDA)](https://img.shields.io/badge/Exploratory%20Data%20Analysis%20(EDA)-🔍-blue?style=for-the-badge&logo=search)](#exploratory-data-analysis-eda) 
-[![Jump to Business Impact](https://img.shields.io/badge/Business%20Impact-💼-blue?style=for-the-badge&logo=business)](#business-impact) 
-[![Jump to Results Visualization](https://img.shields.io/badge/Results%20Visualization-📊-blue?style=for-the-badge&logo=bar-chart)](#results-visualization) 
-[![Jump to Business Questions Addressed](https://img.shields.io/badge/Business%20Questions%20Addressed-❓-blue?style=for-the-badge&logo=question)](#business-questions-addressed) 
-[![Jump to Conclusion](https://img.shields.io/badge/Conclusion-📉-blue?style=for-the-badge&logo=chart)](#conclusion) 
+[![Jump to Business Impact](https://img.shields.io/badge/Business%20Impact-💼-blue?style=for-the-badge&logo=business)](#-business-impact) 
+[![Jump to Results Visualization](https://img.shields.io/badge/Results%20Visualization-📊-blue?style=for-the-badge&logo=bar-chart)](#-results-visualization) 
+[![Jump to Business Questions Addressed](https://img.shields.io/badge/Business%20Questions%20Addressed-❓-blue?style=for-the-badge&logo=question)](#-business-questions-addressed) 
+[![Jump to Conclusion](https://img.shields.io/badge/Conclusion-📉-blue?style=for-the-badge&logo=chart)](#-conclusion) 
 
 ---
 
