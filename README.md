@@ -1,14 +1,13 @@
 # 🧪 Chemical Component Analysis of Wine Quality
 
 [![Jump to Project Overview](https://img.shields.io/badge/Project%20Overview-📋-blue?style=for-the-badge&logo=read-the-docs)](#project-overview) 
-[![Jump to Analysis & Comparison](https://img.shields.io/badge/Analysis%20and%20Comparison-🔍-blue?style=for-the-badge&logo=search)](#analysis--comparison) 
-[![Jump to Business Impact](https://img.shields.io/badge/Business%20Impact-💼-blue?style=for-the-badge&logo=business)](#business-impact) 
-[![Jump to Tools & Technologies](https://img.shields.io/badge/Tools%20and%20Technologies-🔧-blue?style=for-the-badge&logo=tools)](#tools--technologies) 
 [![Jump to Data Processing](https://img.shields.io/badge/Data%20Processing-📊-blue?style=for-the-badge&logo=analytics)](#data-processing) 
-[![Jump to Insights & Recommendations](https://img.shields.io/badge/Insights%20and%20Recommendations-📝-blue?style=for-the-badge&logo=write)](#insights--recommendations) 
-[![Jump to Key Takeaways](https://img.shields.io/badge/Key%20Takeaways-🏆-blue?style=for-the-badge&logo=trophy)](#key-takeaways) 
-[![Jump to Installation Steps](https://img.shields.io/badge/Installation%20Steps-📥-blue?style=for-the-badge&logo=download)](#installation-steps) 
-[![Jump to Conclusion](https://img.shields.io/badge/Conclusion-📉-blue?style=for-the-badge&logo=chart)](#conclusion)
+[![Jump to Exploratory Data Analysis EDA](https://img.shields.io/badge/Analysis%20and%20Comparison-🔍-blue?style=for-the-badge&logo=search)](#exploratory-data-analysis-EDA) 
+[![Jump to Business Impact](https://img.shields.io/badge/Business%20Impact-💼-blue?style=for-the-badge&logo=business)](#-business-impact) 
+[![Jump to Results Visualization](https://img.shields.io/badge/Tools%20and%20Technologies-🔧-blue?style=for-the-badge&logo=tools)](#-results-visualization) 
+[![Jump to Business Questions Addressed](https://img.shields.io/badge/Insights%20and%20Recommendations-📝-blue?style=for-the-badge&logo=write)](#-business-questions-addressed) 
+[![Jump to Conclusion](https://img.shields.io/badge/Key%20Takeaways-🏆-blue?style=for-the-badge&logo=trophy)](#-conclusion) 
+
 
 ---
 
