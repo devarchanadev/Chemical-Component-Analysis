@@ -1,13 +1,13 @@
 # 🧪 Chemical Component Analysis of Wine Quality
 
-[![Jump to Project Overview](https://img.shields.io/badge/Project%20Overview-📋-blue?style=for-the-badge&logo=read-the-docs)](#project-overview) 
-[![Jump to Analysis & Comparison](https://img.shields.io/badge/Analysis%20and%20Comparison-🔍-blue?style=for-the-badge&logo=search)](#exploratory-data-analysis-eda) 
-[![Jump to Business Impact](https://img.shields.io/badge/Business%20Impact-💼-blue?style=for-the-badge&logo=business)](#insights-recommendations) 
-[![Jump to Tools & Technologies](https://img.shields.io/badge/Tools%20and%20Technologies-🔧-blue?style=for-the-badge&logo=tools)](#project-overview) 
-[![Jump to Data Processing](https://img.shields.io/badge/Data%20Processing-📊-blue?style=for-the-badge&logo=analytics)](#data-set) 
-[![Jump to Insights & Recommendations](https://img.shields.io/badge/Insights%20and%20Recommendations-📝-blue?style=for-the-badge&logo=write)](#insights-recommendations) 
-[![Jump to Key Takeaways](https://img.shields.io/badge/Key%20Takeaways-🏆-blue?style=for-the-badge&logo=trophy)](#conclusion) 
-[![Jump to Conclusion](https://img.shields.io/badge/Conclusion-📉-blue?style=for-the-badge&logo=chart)](#conclusion)
+[![Jump to Project Overview](https://img.shields.io/badge/Project%20Overview-📋-blue?style=for-the-badge&logo=read-the-docs)](#-project-overview) 
+[![Jump to Analysis & Comparison](https://img.shields.io/badge/Analysis%20and%20Comparison-🔍-blue?style=for-the-badge&logo=search)](#-exploratory-data-analysis-eda) 
+[![Jump to Business Impact](https://img.shields.io/badge/Business%20Impact-💼-blue?style=for-the-badge&logo=business)](#-insights-recommendations) 
+[![Jump to Tools & Technologies](https://img.shields.io/badge/Tools%20and%20Technologies-🔧-blue?style=for-the-badge&logo=tools)](#-project-overview) 
+[![Jump to Data Processing](https://img.shields.io/badge/Data%20Processing-📊-blue?style=for-the-badge&logo=analytics)](#-data-set) 
+[![Jump to Insights & Recommendations](https://img.shields.io/badge/Insights%20and%20Recommendations-📝-blue?style=for-the-badge&logo=write)](#-insights-recommendations) 
+[![Jump to Key Takeaways](https://img.shields.io/badge/Key%20Takeaways-🏆-blue?style=for-the-badge&logo=trophy)](#-conclusion) 
+[![Jump to Conclusion](https://img.shields.io/badge/Conclusion-📉-blue?style=for-the-badge&logo=chart)](#-conclusion)
 
 ---
 
