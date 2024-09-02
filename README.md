@@ -20,7 +20,7 @@ Discover how Principal Component Analysis (PCA), K-Means Clustering, Hierarchica
 
 ---
 
-## PROJECT OVERVIEW
+## Project Overview
 
 In this project, I analyzed the wine quality data sourced from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality) using a blend of machine learning and statistical techniques. My main focus was on uncovering the underlying structure and patterns within the dataset through various methods such as **PCA**, **K-Means Clustering**, **Hierarchical Clustering**, and **Self-Organizing Maps (SOM)**.
 
@@ -30,7 +30,7 @@ The dataset consists of measurements related to various chemical properties of r
 |----------------------------|--------------------------------|----------------------------------|
 | R, RStudio, ggplot2         | PCA, K-Means, Hierarchical Clustering, SOM | Histograms, Boxplots, Correlation Matrix, Scaling |
 
-## [![Jump to Data Processing](https://img.shields.io/badge/Data%20Processing-📊-blue?style=for-the-badge&logo=analytics)](#data-processing) 
+## Data Processing
 
 The dataset, sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality), includes measurements of chemical properties for both red and white wines. The combined dataset consists of 13 variables, including continuous, ordinal, and categorical variables.
 
@@ -43,7 +43,7 @@ The dataset, sourced from the [UCI Machine Learning Repository](https://archive.
 - Checked for missing values (none were found).
 - Scaled the data to prepare for multivariate analysis.
 
-## [![Jump to Analysis & Comparison](https://img.shields.io/badge/Analysis%20and%20Comparison-🔍-blue?style=for-the-badge&logo=search)](#exploratory-data-analysis-eda) 
+## Exploratory Data Analysis EDA
 
 **Objective:** To understand the distribution, relationships, and potential outliers in the dataset.
 
