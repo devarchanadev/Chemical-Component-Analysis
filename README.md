@@ -20,7 +20,7 @@ Discover how Principal Component Analysis (PCA), K-Means Clustering, Hierarchica
 
 ---
 
-## [![Jump to Project Overview](https://img.shields.io/badge/Project%20Overview-📋-blue?style=for-the-badge&logo=read-the-docs)](#project-overview) 
+## PROJECT OVERVIEW
 
 In this project, I analyzed the wine quality data sourced from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality) using a blend of machine learning and statistical techniques. My main focus was on uncovering the underlying structure and patterns within the dataset through various methods such as **PCA**, **K-Means Clustering**, **Hierarchical Clustering**, and **Self-Organizing Maps (SOM)**.
 
